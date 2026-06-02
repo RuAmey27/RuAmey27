@@ -3,7 +3,7 @@
 
 - 🌱 I’m diving deep into **Fullstack development.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-phi-liart-57.vercel.app/](https://portfolio-phi-liart-57.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ruamey-portfolio.vercel.app/](https://ruamey-portfolio.vercel.app/)
 
 - 📫 How to reach me **ameypande2709@gmail.com**
 
